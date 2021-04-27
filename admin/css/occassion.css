@@ -1,0 +1,167 @@
+#Containers{
+      
+      float:top;
+      margin-right:0px;
+      border-right:0px;
+      padding-right:0px;
+      background-color:black;
+      height:2140px;
+      width:140px;
+     }
+
+#logo{
+      float:left;
+      margin-left:0px;
+      margin-right:0px;
+      margin-top:0px;
+      margin-bottom:0px;
+      border-left:0px;
+      border-top:0px;
+      padding-left:0px;
+      background-color:;
+	  background-image: url("mcjlogo.jpg");
+	  background-repeat: no-repeat;
+	  background-size: cover;
+      height:140px;
+      width:635px;
+	 
+     }
+
+
+#WhiteDivisionHome{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:140px;
+      width:141px;
+     }
+#WhiteDivisionAboutus{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:140px;
+      width:141px;
+     }
+
+#WhiteDivisionServices{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:140px;
+      width:141px;
+     }
+
+#WhiteDivisionFlowers{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:140px;
+      width:141px;
+     }
+
+#WhiteDivisionLocation{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:140px;
+      width:141px;
+     }
+
+
+#navbar{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+	  background-image: url("bar.jpg");
+	  background-repeat: no-repeat;
+	  background-size: 100% 100%;
+      height:50px;
+      width:1340px;
+     }	 	 
+	 
+	 
+	 
+
+
+#slideshowdiv{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:blue;
+	  background-image: url("flow.jpg");
+	  background-repeat: no-repeat;
+	  background-size: 100% 100%;
+      height:1400px;
+      width:1340px;
+     }
+
+	 
+#bestseller{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:green;
+      height:700px;
+      width:1340px;
+     }	 
+	 
+#aboutusdiv{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:orange;
+	  background-image: url("b1.jpg");
+	  background-repeat: no-repeat;
+	  background-size: 100% 100%;
+      height:300px;
+      width:1340px;
+     }
+
+	 
+	 
+
+#Footers{
+      float:left;
+      margin-left:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:gray;
+	  background-image: url("ft.jpg");
+	  background-repeat: no-repeat;
+	  background-size: 100% 100%;
+      height:250px;
+      width:1340px;
+     }

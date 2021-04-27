@@ -1,0 +1,160 @@
+#Containers{
+      
+      float:top;
+      margin-left:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:black;
+      height:1500px;
+      width:1350px;
+     }
+
+#pink{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:green;
+      height:60px;
+      width:1350px;
+     }
+
+#red{
+      float:;
+      margin-left:0px;
+      margin-right:0px;
+      margin-top:0px;
+      margin-bottom:0px;
+      border-left:0px;
+      border-top:0px;
+      padding-left:0px;
+      background-color:red;
+      height:250px;
+      width:1350px;
+     }
+
+#green{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:green;
+      height:60px;
+      width:1350px;
+     }
+
+#WhiteDivisionHome{
+      
+      float:left;
+      margin-left:500px;
+      margin-top:20px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:20px;
+      width:40px;
+     }
+#WhiteDivisionAboutus{
+      
+      float:left;
+      margin-left:10px;
+      margin-top:20px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:20px;
+      width:75px;
+     }
+
+#WhiteDivisionServices{
+      
+      float:left;
+      margin-left:10px;
+      margin-top:20px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:20px;
+      width:65px;
+     }
+
+#WhiteDivisionFlowers{
+      
+      float:left;
+      margin-left:10px;
+      margin-top:20px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:20px;
+      width:55px;
+     }
+
+#WhiteDivisionLocation{
+      
+      float:left;
+      margin-left:10px;
+      margin-top:20px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:white;
+      height:20px;
+      width:75px;
+     }
+
+#orange{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:orange;
+      height:600px;
+      width:300px;
+     }
+
+
+#blue{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:blue;
+      height:600px;
+      width:700px;
+     }
+
+
+	 
+#yellow{
+      
+      float:left;
+      margin-left:0px;
+      margin-top:0px;
+      border-left:0px;
+      padding-left:0px;
+      background-color:yellow;
+      height:600px;
+      width:350px;
+     }
+	 
+	 
+
+#Footers{
+      float:left;
+      margin-left:0px;
+      border-left:0px;
+      padding-left:5px;
+      background-color:gray;
+      height:100px;
+      width:1350px;
+     }
+/***** Top menu *****/
+
